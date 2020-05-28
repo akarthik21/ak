@@ -11,6 +11,8 @@ His choice of three heroes in life reflects his multi-faceted personality:
 - His second hero is Sachin Tendulkar, who Ashwin thinks has made a billion people happy, and has made each one of us feel proud to be an Indian. He hopes to emulate “at least a fraction of what Sachin has done for the spirit of his countrymen”.
 - His third hero is the celebrated British theoretical physicist Stephen Hawking, who, though crippled by a neuro-degenerative disease, has made original contributions in the field of cosmology and quantum gravity.
 
+![Ashwin Karthik and Bharath Sharma with Sachin Tendulkar!](imgs/ashwin_idol02.jpg)
+
 We can see that Ashwin’s heroes are a well thought-out selection, reflective of his deep and rich perspective and his own aspirations: they traverse from a local and intensely emotional plane—though a sporting hero and an inspiring national icon—to an international and highly intellectual plane. Only a poet would have a mind-map like this!
 Ashwin is indeed a poet. He writes poetry in English, Kannada and Hindi.
 
