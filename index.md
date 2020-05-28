@@ -30,6 +30,7 @@ Below are the awards with he has been recognized with:
 11.	Co-author of the book “The Relic the eternal search”
 12.	Nipman Foundation & Microsoft Equal Opportunity Award 2019.
 
+![Ashwin Karthik being presented the 'Best Employee Award' by Hon'ble President of India Shri Pranab Mukherjee (2013)](imgs/ashwin_award001.jpg)
 
 ### Stay tuned
 
