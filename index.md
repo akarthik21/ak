@@ -1,6 +1,6 @@
 Ashwin Karthik established himself as a true achiever from the very moment of his birth. He was born with a deficient supply of oxygen, which resulted in a crippling and life-long condition called cerebral palsy. He is a quadriplegic, with the severest form of cerebral palsy that affects all four limbs. But, as though to balance his misfortune, he is blessed with an indomitable spirit and the will to take on an almost impossible challenge of leading and succeeding in a world full of people without disadvantages.
 
-![Ashwin Karthik](imgs/ashwin.jpg){:class="img-responsive"}
+![Ashwin Karthik](imgs/ashwin.jpg)
 
 From his schools days, Ashwin’s record reflects what he has been striving to do earnestly. In 1999, Ashwin scored 84% in his SSLC exams; the highest percentage ever scored by a student with cerebral palsy. In 2003, he received the National Scholarship for his engineering studies, given to just one physically challenged student across the entire country. He is the first quadriplegic cerebral palsy student in India to have become an engineering graduate.
 
